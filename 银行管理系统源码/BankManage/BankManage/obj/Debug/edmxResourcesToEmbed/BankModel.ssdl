@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BankModelStoreContainer">
+    <EntitySet Name="AccountInfo" EntityType="BankModel.Store.AccountInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Admin" EntityType="BankModel.Store.Admin" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmployeeInfo" EntityType="BankModel.Store.EmployeeInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="LoginInfo" EntityType="BankModel.Store.LoginInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MoneyInfo" EntityType="BankModel.Store.MoneyInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RateInfo" EntityType="BankModel.Store.RateInfo" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="AccountInfo">
+    <Key>
+      <PropertyRef Name="accountNo" />
+    </Key>
+    <Property Name="accountNo" Type="nchar" Nullable="false" MaxLength="6" />
+    <Property Name="IdCard" Type="nchar" MaxLength="18" />
+    <Property Name="accountName" Type="nvarchar" MaxLength="20" />
+    <Property Name="accountPass" Type="nvarchar" MaxLength="20" />
+    <Property Name="accountType" Type="nvarchar" MaxLength="8" />
+  </EntityType>
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="dminName" Type="varchar" MaxLength="50" />
+    <Property Name="adminPass" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EmployeeInfo">
+    <Key>
+      <PropertyRef Name="EmployeeNo" />
+    </Key>
+    <Property Name="EmployeeNo" Type="nchar" Nullable="false" MaxLength="5" />
+    <Property Name="EmployeeName" Type="nvarchar" MaxLength="20" />
+    <Property Name="sex" Type="nchar" MaxLength="1" />
+    <Property Name="position" Type="nvarchar" MaxLength="20" />
+    <Property Name="workDate" Type="date" />
+    <Property Name="Psalary" Type="varchar" MaxLength="50" />
+    <Property Name="Nsalary" Type="varchar" MaxLength="50" />
+    <Property Name="telphone" Type="nvarchar" MaxLength="11" />
+    <Property Name="idCard" Type="nchar" MaxLength="18" />
+    <Property Name="photo" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="LoginInfo">
+    <Key>
+      <PropertyRef Name="Bno" />
+    </Key>
+    <Property Name="Bno" Type="nchar" Nullable="false" MaxLength="5" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="MoneyInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="accountNo" Type="nchar" Nullable="false" MaxLength="6" />
+    <Property Name="dealDate" Type="datetime" Nullable="false" />
+    <Property Name="dealType" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="dealMoney" Type="float" Nullable="false" />
+    <Property Name="balance" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RateInfo">
+    <Key>
+      <PropertyRef Name="rationType" />
+    </Key>
+    <Property Name="rationType" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="rationValue" Type="float" />
+  </EntityType>
+</Schema>

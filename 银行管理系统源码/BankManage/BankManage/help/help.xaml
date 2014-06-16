@@ -1,0 +1,48 @@
+﻿<Page x:Class="BankManage.help.help"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="500"
+	Title="help">
+
+    <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Visible">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/背景1.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" FontSize="40" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Blue">系统帮助</TextBlock>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" FontSize="30">①登录功能:</TextBlock>
+            <TextBlock Grid.Row="1" Margin="100,0,0,0" TextWrapping="Wrap" FontSize="20" VerticalAlignment="Center">用户根据权限选择不同的登录模式。</TextBlock>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" FontSize="30">②普通职员权限:</TextBlock>
+            <TextBlock Grid.Row="1" Margin="100,0,0,0" TextWrapping="Wrap" FontSize="20" VerticalAlignment="Center">若为普通职员登录，可进行的操作有开户转账，存款取款以及汇总查询等。</TextBlock>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" FontSize="30">③管理员权限:</TextBlock>
+            <TextBlock Grid.Row="1" Margin="100,0,0,0" TextWrapping="Wrap" FontSize="20" VerticalAlignment="Center">若为管理员登录，可进行的操作有修改利率，管理职员基本信息以及更改密码等。</TextBlock>
+        </Grid>
+    </Grid>
+    </ScrollViewer>
+</Page>

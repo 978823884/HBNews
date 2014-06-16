@@ -1,0 +1,471 @@
+E:\C#新书实验\BankManage\BankManage\bin\Debug\BankManage.exe.config
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+E:\C#新书实验\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\help.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\LoginForm.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\Deposit.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\help.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\App.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage.g.resources
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+E:\C#新书实验\BankManage\BankManage\bin\Debug\Bank.mdf
+E:\C#新书实验\BankManage\BankManage\bin\Debug\Bank_log.ldf
+E:\C#新书实验\BankManage\BankManage\bin\Debug\BankManage.exe
+E:\C#新书实验\BankManage\BankManage\bin\Debug\BankManage.pdb
+E:\C#新书实验\BankManage\BankManage\bin\Debug\EntityFramework.dll
+E:\C#新书实验\BankManage\BankManage\bin\Debug\EntityFramework.xml
+E:\C#新书实验\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage.exe
+E:\C#新书实验\BankManage\BankManage\obj\Debug\BankManage.pdb
+E:\C#新书实验\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\Main.baml
+E:\C#新书实验\BankManage\BankManage\obj\Debug\Main.g.cs
+E:\C#新书实验\BankManage\BankManage\obj\Debug\App.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\BankManage.exe.config
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage.exe
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage.pdb
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\Bank.mdf
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\Bank_log.ldf
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\BankManage.exe
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\BankManage.pdb
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\EntityFramework.dll
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\EntityFramework.xml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\help.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\LoginForm.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\Main.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\Deposit.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\App.baml
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\help.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\Main.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\App.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage.g.resources
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\C#新书实验\综合实验—银行业务管理系统\WPF版\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\BankManage.exe.config
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage.exe
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage.pdb
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\Bank.mdf
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\Bank_log.ldf
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\BankManage.exe
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\BankManage.pdb
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\EntityFramework.dll
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\EntityFramework.xml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\help.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\LoginForm.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\Main.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\Deposit.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\App.baml
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\help.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\Main.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\App.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage.g.resources
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\V3CsWPF\来自4人\C#书稿—实验指导&习题解答&前言-侯彦娥\3.实验指导(hye)\3.实验指导(hye)\实验参考源程序\综合实验—银行业务管理系统\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.exe
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.pdb
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\Bank.mdf
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\Bank_log.ldf
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\BankManage.exe
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\BankManage.pdb
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\EntityFramework.dll
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\EntityFramework.xml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\help.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\LoginForm.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\Main.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\Deposit.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\App.baml
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\help.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\Main.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\App.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.g.resources
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\V3CsWPF\book\附录源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.exe
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\Bank.mdf
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\Bank_log.ldf
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\BankManage.exe
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\EntityFramework.dll
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\EntityFramework.xml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\help.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\LoginForm.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\Main.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\Deposit.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\App.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\help.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\Main.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\App.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.g.resources
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\login.baml
+C:\Users\甄强\Desktop\c#源程序\S4_综合实验源程序\BankManager\BankManage\BankManage\obj\Debug\login.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\Bank.mdf
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\Bank_log.ldf
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\BankManage.exe
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\EntityFramework.dll
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\EntityFramework.xml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\help.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\LoginForm.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\Main.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\Deposit.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\App.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\help.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\Main.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\App.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage.g.resources
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage.exe
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\AdminForm.baml
+C:\Users\甄强\Desktop\BankManager\BankManage\BankManage\obj\Debug\AdminForm.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\Bank.mdf
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\Bank_log.ldf
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\BankManage.exe.config
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\BankManage.exe
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\EntityFramework.dll
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\EntityFramework.xml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\AdminForm.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\help.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\LoginForm.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Main.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\Deposit.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\App.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\AdminForm.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\help.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Main.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\App.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage.g.resources
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage.exe
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Main2.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Main2.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\money.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\money\money.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\query\query.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\query\query.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\other\other.baml
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\other\other.g.cs
+C:\Users\甄强\Desktop\BankManager最新版\BankManage\BankManage\obj\Debug\Resource\GlassButton.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\Bank.mdf
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\Bank_log.ldf
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\BankManage.exe.config
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\BankManage.exe
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\EntityFramework.dll
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\EntityFramework.xml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\AdminForm.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\LoginForm.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\Main2.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\Deposit.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\money.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\Resource\GlassButton.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\App.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\AdminForm.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\Main2.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\money.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\App.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage.g.resources
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage.exe
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\chushihua.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\chushihua.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\about\about.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\about\about.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\transferaccounts.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\money\transferaccounts.g.cs
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\help\help.baml
+C:\Users\甄强\Desktop\BankManager最新版 - 副本\BankManage\BankManage\obj\Debug\help\help.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\BankManage.exe.config
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage.exe
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\Bank.mdf
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\Bank_log.ldf
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\BankManage.exe
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\BankManage.pdb
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\EntityFramework.dll
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\EntityFramework.xml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\about\about.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\AdminForm.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\chushihua.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\employee\ChangePay.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\employee\EmployeeBase.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\help\help.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\LoginForm.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\Main2.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\Deposit.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\money.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\NewAccount.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\OperateRecord.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\transferaccounts.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\Withdraw.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\other\ChangeAccount.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\other\ChangeOperate.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\query\DayQuery.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\query\TotalQuery.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\rateManage\ratePage.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\Resource\DataGridColumnTemplate.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\Resource\DataGridStyle.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\Resource\GlassButton.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\App.baml
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\about\about.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\AdminForm.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\chushihua.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\employee\ChangePay.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\employee\EmployeeBase.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\help\help.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\LoginForm.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\Main2.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\Deposit.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\money.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\NewAccount.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\OperateRecord.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\transferaccounts.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\money\Withdraw.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\other\ChangeAccount.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\other\ChangeOperate.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\query\DayQuery.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\query\TotalQuery.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\rateManage\ratePage.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\App.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage_Content.g.cs
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage_MarkupCompile.cache
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage.g.resources
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+C:\Users\甄强\Desktop\8\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.Cache
+D:\暂时\T08_1015_ZQ\c#要交\银行管理系统源码\BankManage\BankManage\bin\Debug\BankManage.exe.config
+D:\暂时\T08_1015_ZQ\c#要交\银行管理系统源码\BankManage\BankManage\obj\Debug\BankManage.exe
+D:\暂时\T08_1015_ZQ\c#要交\银行管理系统源码\BankManage\BankManage\obj\Debug\BankManage.pdb

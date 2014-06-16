@@ -1,0 +1,31 @@
+﻿<Page x:Class="BankManage.about"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="400"
+	Title="关于">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/背景1.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <TextBlock FontSize="35">小组成员：</TextBlock>
+            <Button FontSize="25" Tag="/images2/wang.jpg" Click="Button_Click" Margin="0,6">王元昊</Button>
+            <Button FontSize="25" Tag="/images2/liu.jpg" Click="Button_Click" Margin="0,6">刘佳佳</Button>
+            <Button FontSize="25" Tag="/images2/zhao.jpg" Click="Button_Click" Margin="0,6">赵雨婷</Button>
+            <Button FontSize="25" Tag="/images2/li.jpg" Click="Button_Click" Margin="0,6">李想</Button>
+            <Button FontSize="25" Tag="/images2/chang.jpg" Click="Button_Click" Margin="0,6">常飞</Button>
+            <Button FontSize="25" Tag="/images2/zhen.jpg" Click="Button_Click" Margin="0,6">甄强</Button>
+        </StackPanel>
+        <Image Grid.Column="1" Name="images">
+            
+        </Image>
+    </Grid>
+</Page>

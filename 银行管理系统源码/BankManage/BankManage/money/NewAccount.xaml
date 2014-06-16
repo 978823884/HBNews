@@ -1,0 +1,61 @@
+﻿<Page x:Class="BankManage.money.NewAccount"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="300" Title="NewAccount">
+    <Page.Resources>
+        
+    </Page.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/背景1.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="*" ></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Text="开户" FontSize="20" TextAlignment="Center" Grid.Row="0" Grid.ColumnSpan="2" Opacity="0.6" ></TextBlock>
+            <TextBlock Margin="7"  Grid.Row="1">账号：</TextBlock>
+            <TextBox x:Name="txtAccountNo" Margin="5" Grid.Column="1"  Grid.Row="1" Background="{x:Null}"  FontSize="20" Opacity="0.6" TextAlignment="Center" IsEnabled="False"/>
+            <TextBlock Margin="7"  Grid.Row="2">账户名：</TextBlock>
+            <TextBox Name="txtAccountName" Margin="5" Grid.Column="1"  Grid.Row="2" Background="{x:Null}" FontSize="20" Opacity="0.6" TextAlignment="Center"></TextBox>
+            <TextBlock Margin="7"  Grid.Row="3">身份证号：</TextBlock>
+            <TextBox Name="txtIDCard" Margin="5" Grid.Column="1"  Grid.Row="3" Background="{x:Null}" FontSize="20" Opacity="0.6" TextAlignment="Center"></TextBox>
+            <TextBlock Margin="7"  Grid.Row="4">密码：</TextBlock>
+            <PasswordBox Name="txtPass" Margin="5" Grid.Column="1"  Grid.Row="4" Background="{x:Null}" FontSize="20" Opacity="0.6" Block.TextAlignment="Center"></PasswordBox>
+            <TextBlock Margin="7"  Grid.Row="5">开户类型：</TextBlock>
+            <ComboBox  Grid.Row="5" Grid.Column="1" Name="comboBoxAccountType"  Margin="5" BorderBrush="#FFABADB3" Background="{x:Null}" FontSize="20" Block.TextAlignment="Center" Opacity="0.3" SelectionChanged="comboBoxAccountType_SelectionChanged" />
+            <TextBlock Margin="7"  Grid.Row="6">开户金额：</TextBlock>
+            <TextBox Name="txtMoney" Margin="5" Grid.Column="1"  Grid.Row="6" Background="{x:Null}" FontSize="20" Opacity="0.6" TextAlignment="Center"></TextBox>
+            <TextBlock Margin="7" Grid.Row="7" Grid.Column="0">存款时间</TextBlock>
+            <ComboBox Grid.Row="7"  Grid.Column="1" Name="comboxAccoutTime"  Margin="5" BorderBrush="#FFABADB3" Background="{x:Null}" FontSize="20" Block.TextAlignment="Center" Opacity="0.3"></ComboBox>
+            <StackPanel Grid.Row="8" HorizontalAlignment="Center" Grid.ColumnSpan="2" Orientation="Horizontal" >
+			<Button Content="确定" HorizontalAlignment="Left" Height="40" Margin="95,10,0,-3.8"  VerticalAlignment="Top" Width="70"  Click="btnOk_Click"/>
+			<Button Content="取消" HorizontalAlignment="Center"  Height="40" Margin="50,10,45,-3.8"  Width="70" Click="btnCancel_Click"/>
+            </StackPanel>
+        </Grid>
+
+
+       
+   
+    </Grid>
+</Page>
